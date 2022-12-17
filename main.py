@@ -63,7 +63,7 @@ def choice_char_class():
 
 
 def main():
-    print('Приветствую тебя, искатель приключений!')
+    print('Приветствую тебя, человек')
     print('Прежде чем начать игру...')
     char_name = input('...назови себя: ')
     print(f'Здравствуй, {char_name}! '
